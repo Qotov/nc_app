@@ -1,1 +1,1 @@
-web: gunicorn neuralcrest:server
+web: gunicorn ncapp:server
